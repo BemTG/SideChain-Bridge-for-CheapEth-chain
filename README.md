@@ -1,4 +1,4 @@
 # SideChain-Bridge-for-CheapEth-chain
 
 
-Initial prototype of a sidechain bridge used to transfer mainet tokens and to CheapEth Sidechain
+Initial sidechain bridge prototype used to transfer mainet tokens and to CheapEth Sidechain
